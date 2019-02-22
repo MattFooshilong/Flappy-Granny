@@ -1,5 +1,5 @@
 # Flappy Granny: a game modelled after flappy birds
-This game is not a indicator that I can code
+This game is not a indicator that I can code.
 I merely followed along a youtube tutorial that was creating flappy bird and changed some pictures and things around.
 
 How to play:
