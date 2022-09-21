@@ -1,7 +1,5 @@
 # Flappy Granny: a game modelled after flappy birds (just for fun!)
-MUTE FIRST!
-This game is not a indicator that I can code a game.
-I merely followed along a youtube tutorial that was creating flappy bird and changed some pictures and things around. That being said, this is purely for fun.
+Warning: Comes with sound
 
 How to play:
 1) Click on link above
